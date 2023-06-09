@@ -1,0 +1,10 @@
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\bin\Debug\BMPTOPixel.exe.config
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\bin\Debug\BMPTOPixel.exe
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\bin\Debug\BMPTOPixel.pdb
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\obj\Debug\BMPTOPixel.csproj.AssemblyReference.cache
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\obj\Debug\BMPTOPixel.Form1.resources
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\obj\Debug\BMPTOPixel.Properties.Resources.resources
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\obj\Debug\BMPTOPixel.csproj.GenerateResource.cache
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\obj\Debug\BMPTOPixel.csproj.CoreCompileInputs.cache
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\obj\Debug\BMPTOPixel.exe
+C:\Users\AIBlack\source\repos\BMPTOPixel\BMPTOPixel\obj\Debug\BMPTOPixel.pdb
